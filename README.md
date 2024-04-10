@@ -23,10 +23,7 @@ cipher-sorceress-0123/
  - ├─ ...
 
 ## Video Walkthrough of the project
-Attach a very short video walkthrough of all of the features [ 1 - 3 minutes ]
-
-## Video Walkthrough of the codebase
-Attach a very short video walkthrough of the codebase [ 1 - 5 minutes ]
+[https://www.youtube.com/watch?v=HpW1_gp_9wU]
 
 ## Features
 Features
